@@ -302,17 +302,6 @@ I'm interested in opportunities involving:
 
 ---
 
-# 🌐 Portfolio
-
-### Current Portfolio
-
-🔗 [erummirza.github.io/Profile](https://erummirza.github.io/Profile/)
-
-> My existing portfolio URL is intentionally retained for recruiters
-> who already have my previous CV.
-
----
-
 # 📫 Connect With Me
 
 📧 **Email:** mirza.erum@gmail.com
