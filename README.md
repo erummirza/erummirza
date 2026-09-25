@@ -75,23 +75,32 @@ into real-world business software.
 
 # 🚀 Featured Projects
 
-## 🏠 Karachi Real Estate Platform
+## 🏥 CRM → EHR Integration (NKF Singapore)
 
-**MERN Stack | React | Node.js | Express | MongoDB**
+**Healthcare IT | WCF / SOAP | XML | SFTP**
 
-A real-estate platform for managing and categorizing property
-inventory and listings.
+CRM integration project delivering an hourly XML/WSDL sync and a
+nightly SFTP reconciliation pipeline for 3,000+ patients at the
+National Kidney Foundation Singapore.
 
-**Key areas:**
-- Property listings
-- Inventory management
-- Listing categorization
-- Agent functionality
-- Authentication
-- Real-estate search
-- MongoDB data management
+---
 
-🔗 [View Project](https://github.com/erummirza/karachi-real-estate)
+## 🧪 Innovative Lab — LabTasks (USA)
+
+**Healthcare IT | .NET | CLIA Compliance**
+
+Remote healthcare software development — CLIA-compliant medical lab
+automation on .NET, automating instrument tracking, competency
+management, and hospital communications.
+
+---
+
+## 🏦 Home Remittance Portal — Meezan Bank
+
+**Banking | T24 Core Banking | RTGS / OAT / COC / IBFT**
+
+Payment portal delivering RTGS, OAT, COC, IBFT, and Pay Order routing
+on T24 core banking — handling millions in daily transactions.
 
 ---
 
@@ -147,6 +156,28 @@ A full-stack social media and blogging application.
 - JWT authentication
 
 🔗 [View Project](https://github.com/erummirza/social-media)
+
+---
+
+# 📦 Other Projects
+
+## 🏠 Karachi Real Estate Platform
+
+**MERN Stack | React | Node.js | Express | MongoDB**
+
+A real-estate platform for managing and categorizing property
+inventory and listings.
+
+**Key areas:**
+- Property listings
+- Inventory management
+- Listing categorization
+- Agent functionality
+- Authentication
+- Real-estate search
+- MongoDB data management
+
+🔗 [View Project](https://github.com/erummirza/karachi-real-estate)
 
 ---
 
