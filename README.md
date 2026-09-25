@@ -309,8 +309,7 @@ I'm interested in opportunities involving:
 💼 **GitHub:**  
 https://github.com/erummirza
 
-🌐 **Portfolio:**  
-https://erummirza.github.io/Profile/
+
 
 ---
 
