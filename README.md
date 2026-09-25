@@ -1,3 +1,78 @@
+# 👋 Hi, I'm Erum Mirza
+
+### Software Engineer | .NET Developer | Full Stack Developer | AI/RAG Developer
+
+💻 Building enterprise, web, integration and AI-powered applications.
+
+📍 Karachi, Pakistan  
+🌍 Open to Remote Opportunities
+
+---
+
+## 👨‍💻 About Me
+
+I am a Software Engineer with 8+ years of experience developing
+enterprise and full-stack applications using .NET, C#, JavaScript,
+React, Node.js and modern database technologies.
+
+My professional experience includes software development and
+integration projects across healthcare, banking, CRM and business
+applications.
+
+Currently, I am expanding my expertise in **Generative AI, RAG and
+LLM-powered applications**, with a focus on integrating AI capabilities
+into real-world business software.
+
+---
+
+## 🛠️ Technical Skills
+
+### Backend
+- C#
+- .NET / .NET Core
+- ASP.NET Core
+- Web API
+- MVC
+- Entity Framework / EF Core
+- LINQ
+- ADO.NET
+- REST APIs
+- WCF / SOAP
+- XML / JSON
+
+### Frontend
+- React.js
+- JavaScript
+- jQuery
+- HTML5
+- CSS3
+- Bootstrap
+- AJAX
+
+### Databases
+- SQL Server
+- MongoDB
+- PostgreSQL
+- MySQL
+
+### AI / Generative AI
+- Generative AI
+- RAG (Retrieval-Augmented Generation)
+- LLM Applications
+- Ollama
+- AI-powered document assistants
+- PDF-based knowledge retrieval
+
+### Tools & Technologies
+- Git / GitHub
+- Swagger
+- Postman
+- SFTP / FTP
+- Visual Studio
+- REST / SOAP Integration
+
+---
+
 # 🚀 Featured Projects
 
 ## 🏥 CRM → EHR Integration (NKF Singapore)
@@ -147,3 +222,75 @@ Account opening and ADC (Alternate Distribution Channel) portal
 integrated with Silk Bank's core banking system, alongside the
 Letter of Thanks application and a Lucky Draw promotional system
 built for the bank.
+
+---
+
+# 🏢 Professional Experience
+
+My development experience includes projects involving:
+
+- Healthcare Software
+- Banking & Financial Systems
+- CRM Integration
+- Enterprise Applications
+- Data Integration
+- REST / SOAP Services
+- Business Process Automation
+
+---
+
+# 🤖 Currently Learning
+
+- Generative AI
+- RAG Architecture
+- LLM Applications
+- AI + .NET
+- Microservices
+- Clean Architecture
+- Azure
+- Modern .NET Architecture
+
+---
+
+# 🎯 What I'm Looking For
+
+I'm interested in opportunities involving:
+
+- .NET / C# Development
+- ASP.NET Core
+- Full Stack Development
+- React + .NET
+- Backend/API Development
+- CRM Integration
+- Generative AI
+- RAG / LLM Applications
+- AI-powered Business Applications
+
+🌍 **Open to remote opportunities and international projects.**
+
+---
+
+# 🌐 Portfolio
+
+### Current Portfolio
+
+🔗 [erummirza.github.io/Profile](https://erummirza.github.io/Profile/)
+
+> My existing portfolio URL is intentionally retained for recruiters
+> who already have my previous CV.
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:** mirza.erum@gmail.com
+
+💼 **GitHub:**  
+https://github.com/erummirza
+
+🌐 **Portfolio:**  
+https://erummirza.github.io/Profile/
+
+---
+
+⭐ Thanks for visiting my profile!
