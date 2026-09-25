@@ -181,6 +181,17 @@ inventory and listings.
 
 ---
 
+## 🚚 Supply Chain & Order Management System
+
+**MERN Stack | React | Node.js | Express | MongoDB | JWT | jsPDF | SheetJS**
+
+Role-based order and supply chain management system built for
+international clients (UK, USA, Canada, UAE), with multi-marketplace
+order allocation, inventory/supplier tracking, PDF/Excel exports, and
+an admin reporting dashboard.
+
+---
+
 ## ⏱️ TimeTrackPK — Attendance Module
 
 **Web Platform | Biometric Integration | GPS Geo-Fencing**
@@ -225,6 +236,19 @@ built for the bank.
 
 ---
 
+## 🗂️ Additional Work
+
+A few smaller projects delivered alongside the above:
+
+- **Asaan Account** — Instant account opening application for a Govt Bank in Pakistan (vendor: FIS), including a Profile wrapper class on Assembly Language.
+- **Chart Audit Application** — Clinical documentation review tool for hospital lab operations.
+- **FTP & SFTP Crawler** — Automated secure file transfer modules for Meezan Bank, Pakistan's first and largest Islamic bank.
+- **Reporting Application** — MIS reporting generated for different departments within banks.
+- **Human Resource Management System** — Silk Bank.
+- **Admin Panel** — Game website administration.
+
+---
+
 # 🏢 Professional Experience
 
 My development experience includes projects involving:
@@ -236,6 +260,14 @@ My development experience includes projects involving:
 - Data Integration
 - REST / SOAP Services
 - Business Process Automation
+
+---
+
+# 🎓 Education & Certifications
+
+- **Bachelor of Computer Science** — Jinnah University for Women, 2006
+- **International Diploma in Computer Science** — College of Digital Sciences
+- **Android Development Certification** — Mindscapes Technologies
 
 ---
 
