@@ -5,7 +5,7 @@
 💻 Building enterprise, web, integration and AI-powered applications.
 
 📍 Karachi, Pakistan  
-🌍 Open to Remote Opportunities
+🌍 Open to  Opportunities
 
 ---
 
