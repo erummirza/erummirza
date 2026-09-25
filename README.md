@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Erum Mirza
 
-### Software Engineer | .NET Developer | Full Stack Developer | AI/RAG Developer
+### Senior Software Engineer | 8+ Years .NET & Full-Stack Development | Banking, Healthcare & CRM Integration | AI/RAG Explorer
 
 💻 Building enterprise, web, integration and AI-powered applications.
 
