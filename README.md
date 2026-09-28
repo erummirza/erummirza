@@ -279,7 +279,6 @@ My development experience includes projects involving:
 - AI + .NET
 - Microservices
 - Clean Architecture
-- Azure
 - Modern .NET Architecture
 - Azure
 - Docker 
