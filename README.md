@@ -281,6 +281,8 @@ My development experience includes projects involving:
 - Clean Architecture
 - Azure
 - Modern .NET Architecture
+- Azure
+- Docker 
 
 ---
 
