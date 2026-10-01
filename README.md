@@ -271,6 +271,13 @@ My development experience includes projects involving:
 
 ---
 
+### 📜 LinkedIn Learning Certificates
+- **Prompt Engineering: How to Talk to the AIs (2023)** — LinkedIn Learning, Oct 2026
+  [View Certificate](https://www.linkedin.com/learning/certificates/f9e6580d2a1d97e42e279a7e6d57735a036e59cf2b4d2c02955c58e1c697bb68)
+- **Learning Docker** — LinkedIn Learning, Sep 2026
+  [View Certificate](https://www.linkedin.com/learning/certificates/4e497b5fb63ad2ce6d71c2d5a16c16d2ed9941d76e684a9f1c04a01cf4344e07)
+
+---
 # 🤖 Currently Learning
 
 - Generative AI
