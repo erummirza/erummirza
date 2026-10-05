@@ -79,11 +79,8 @@ into real-world business software.
 
 **Healthcare IT | WCF / SOAP | XML | SFTP**
 
-Develop two interfaces for data transfer to the Electronic Health Record via CRM integration.
-Hourly interface sends data through XML via WSDL for consistent real-time updates.
-Nightly interface sends reconciliation data securely via SFTP.
-Ensures efficient, reliable data transfer for updates and reconciliation.
-Worked on different Apis  (These are PUT methods (used to update or create data) for specific medical records:)
+Develop two interfaces for data transfer to the Electronic Health Record via CRM integration. Hourly interface sends data through XML via WSDL for consistent real-time updates.Nightly interface sends reconciliation data securely via SFTP.Ensures efficient, reliable data transfer for updates and reconciliation.Worked on different Apis  (These are PUT methods (used to update or create data) for specific medical records:)
+the National Kidney Foundation (NKF) Singapore currently serves 6,007 dialysis patients through its specialized medical network.
 
 putEvent: Updates a general event in the patients history.
 
