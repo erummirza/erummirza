@@ -75,7 +75,7 @@ into real-world business software.
 
 # 🚀 Featured Projects
 
-## 🏥 CRM → EHR Integration (NKF Singapore)
+## 🏥 CRM → EHR Integration (NKF Singapore :NKF remains the largest dialysis provider in Singapore, managing 42 operational centers across the country)
 
 **Healthcare IT | WCF / SOAP | XML | SFTP**
 
