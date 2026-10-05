@@ -79,9 +79,10 @@ into real-world business software.
 
 **Healthcare IT | WCF / SOAP | XML | SFTP**
 
-CRM integration project delivering an hourly XML/WSDL sync and a
-nightly SFTP reconciliation pipeline for 3,000+ patients at the
-National Kidney Foundation Singapore.
+Develop two interfaces for data transfer to the Electronic Health Record via CRM integration.
+Hourly interface sends data through XML via WSDL for consistent real-time updates.
+Nightly interface sends reconciliation data securely via SFTP.
+Ensures efficient, reliable data transfer for updates and reconciliation.
 
 ---
 
