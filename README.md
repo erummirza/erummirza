@@ -83,6 +83,19 @@ Develop two interfaces for data transfer to the Electronic Health Record via CRM
 Hourly interface sends data through XML via WSDL for consistent real-time updates.
 Nightly interface sends reconciliation data securely via SFTP.
 Ensures efficient, reliable data transfer for updates and reconciliation.
+Worked on different Apis  (These are PUT methods (used to update or create data) for specific medical records:)
+
+putEvent: Updates a general event in the patients history.
+
+putAllergy: Updates or adds an allergy for a patient.
+
+putImmunization: Updates vaccination records.
+
+putOrderedMedications: Updates a list of medications a doctor has prescribed.
+
+putDispensedMedications: Updates a list of medications actually given to the patient (by a pharmacy or nurse).
+
+putPatientProblemList: Updates the list of current medical diagnoses/problems a patient has
 
 ---
 
